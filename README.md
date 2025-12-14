@@ -1,0 +1,2 @@
+# Banking-Dataset-Analysis-and-Classification
+The main objective was to build a robust binary classification model, evaluated using the F1-score, which required careful handling of class imbalance, proper validation, and strong feature engineering.  🧠 Models &amp; Techniques Used  During this project, I applied and experimented with several important data science techniques, including:  Explorato
